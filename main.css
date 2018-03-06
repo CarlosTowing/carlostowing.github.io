@@ -1,0 +1,29 @@
+::selection {
+	background: #999;
+    color: #fff;
+}
+
+.footer {
+	padding: 3rem 1.5rem 3rem !important;
+	background: none !important;
+}
+
+.hero {
+	background-image: url(michael-mroczek-191461.jpg) !important;
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.navbar-item, .navbar-link {
+	font-size: 14px;
+}
+
+.map-center {
+	/* map has a fit without it ;) */
+	display: flex;
+	position: relative;
+	margin: 0; 
+	justify-content: center;
+}
