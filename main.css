@@ -1,6 +1,6 @@
 ::selection {
 	background: #999;
-    color: #fff;
+    	color: #fff;
 }
 
 .footer {
@@ -9,11 +9,11 @@
 }
 
 .hero {
-	background-image: url(michael-mroczek-191461.jpg) !important;
+	background-image: url("https://cdn.rawgit.com/CarlosTowing/carlostowing.github.io/d683cac6/michael-mroczek-191461.jpg") !important;
 	background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
+    	background-repeat: no-repeat;
+    	background-size: cover;
+    	position: relative;
 }
 
 .navbar-item, .navbar-link {
