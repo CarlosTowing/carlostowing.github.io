@@ -1,21 +1,27 @@
 ::selection {
 	background: #999;
-    	color: #fff;
+    color: #fff;
 }
 
 .footer {
-	padding: 3rem 1.5rem 3rem !important;
+	padding: 0rem 1.5rem 0rem !important;
 	background: none !important;
 }
 
 .hero {
-	background-image: url("https://cdn.rawgit.com/CarlosTowing/carlostowing.github.io/d683cac6/michael-mroczek-191461.jpg") !important;
+	background-image: url("background.jpg") !important;
+	 /* background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("background.jpg") !important; */
 	background-position: center;
-    	background-repeat: no-repeat;
-    	background-size: cover;
-    	position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+	padding-top: 9em;
+	padding-bottom: 25em;
 }
-
+.nav-bar {
+	background-color: #000;
+	height: 40px;
+}
 .navbar-item, .navbar-link {
 	font-size: 14px;
 }
