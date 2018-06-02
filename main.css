@@ -15,6 +15,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+    border-top: 4px solid #000;
 	padding-top: 9em;
 	padding-bottom: 25em;
 }
@@ -32,4 +33,5 @@
 	position: relative;
 	margin: 0; 
 	justify-content: center;
+	border: 1px solid #d8d8d8;
 }
